@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hey there 👋
 
-<!--
-**andreathniah/andreathniah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm Andrea, a security engineer based in Singapore.
 
-Here are some ideas to get you started:
+- 📋 24 years old + Female
+- 💼 Working hard at [Sea](https://www.sea.com/)
+- ⚙️ Comfortable with `.js`, `.py`
+- 📝 Obtained `OSCP`, `Project+`
+- 📫 Reachable at
+  [![linkedin badge](https://img.shields.io/badge/Andrea_Thniah-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/andreathniah/)
+  [![blog badge](https://img.shields.io/badge/bucketoftears-30302f?style=flat&logo=AbletonLive)](https://andreathniah.github.io/bucketoftears/)
+- 🐳 Currently working on improving my bug bounty skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
